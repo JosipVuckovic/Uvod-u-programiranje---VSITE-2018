@@ -1,0 +1,15 @@
+C:\Users\Korisnik\source\repos\Vjezba2_Doma_Solution\Vjezba2_Doma\obj\Debug\Vjezba2_Doma.vbprojResolveAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Vjezba2_Doma_Solution\Vjezba2_Doma\obj\Debug\Vjezba2_Doma.Resources.resources
+C:\Users\Korisnik\source\repos\Vjezba2_Doma_Solution\Vjezba2_Doma\obj\Debug\Vjezba2_Doma.vbproj.GenerateResource.Cache
+C:\Users\Korisnik\source\repos\Vjezba2_Doma_Solution\Vjezba2_Doma\obj\Debug\Vjezba2_Doma.vbproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Vjezba2_Doma_Solution\Vjezba2_Doma\bin\Debug\Vjezba2_Doma.exe.config
+C:\Users\Korisnik\source\repos\Vjezba2_Doma_Solution\Vjezba2_Doma\bin\Debug\Vjezba2_Doma.exe
+C:\Users\Korisnik\source\repos\Vjezba2_Doma_Solution\Vjezba2_Doma\bin\Debug\Vjezba2_Doma.pdb
+C:\Users\Korisnik\source\repos\Vjezba2_Doma_Solution\Vjezba2_Doma\bin\Debug\Vjezba2_Doma.xml
+C:\Users\Korisnik\source\repos\Vjezba2_Doma_Solution\Vjezba2_Doma\obj\Debug\Vjezba2_Doma.exe
+C:\Users\Korisnik\source\repos\Vjezba2_Doma_Solution\Vjezba2_Doma\obj\Debug\Vjezba2_Doma.xml
+C:\Users\Korisnik\source\repos\Vjezba2_Doma_Solution\Vjezba2_Doma\obj\Debug\Vjezba2_Doma.pdb
+C:\Users\Korisnik\source\repos\Vjezba2_Doma_Solution\Vjezba2_Doma\bin\Debug\Vjezba2_Doma.exe.manifest
+C:\Users\Korisnik\source\repos\Vjezba2_Doma_Solution\Vjezba2_Doma\bin\Debug\Vjezba2_Doma.application
+C:\Users\Korisnik\source\repos\Vjezba2_Doma_Solution\Vjezba2_Doma\obj\Debug\Vjezba2_Doma.exe.manifest
+C:\Users\Korisnik\source\repos\Vjezba2_Doma_Solution\Vjezba2_Doma\obj\Debug\Vjezba2_Doma.application

@@ -1,0 +1,11 @@
+C:\Users\Korisnik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Vjezba1_doma.vbprojResolveAssemblyReference.cache
+C:\Users\Korisnik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Vjezba1_doma.vbproj.GenerateResource.Cache
+C:\Users\Korisnik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Vjezba1_doma.vbproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Vjezba1_doma.Resources.resources
+C:\Users\Korisnik\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Vjezba1_doma.exe.config
+C:\Users\Korisnik\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Vjezba1_doma.exe
+C:\Users\Korisnik\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Vjezba1_doma.pdb
+C:\Users\Korisnik\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Vjezba1_doma.xml
+C:\Users\Korisnik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Vjezba1_doma.exe
+C:\Users\Korisnik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Vjezba1_doma.xml
+C:\Users\Korisnik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Vjezba1_doma.pdb
