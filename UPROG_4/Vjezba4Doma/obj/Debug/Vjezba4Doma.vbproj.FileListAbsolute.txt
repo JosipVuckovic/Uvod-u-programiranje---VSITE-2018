@@ -1,0 +1,10 @@
+C:\Users\Korisnik\source\repos\Vjezba4DomaSolution\Vjezba4Doma\bin\Debug\Vjezba4Doma.exe.config
+C:\Users\Korisnik\source\repos\Vjezba4DomaSolution\Vjezba4Doma\bin\Debug\Vjezba4Doma.exe
+C:\Users\Korisnik\source\repos\Vjezba4DomaSolution\Vjezba4Doma\bin\Debug\Vjezba4Doma.pdb
+C:\Users\Korisnik\source\repos\Vjezba4DomaSolution\Vjezba4Doma\bin\Debug\Vjezba4Doma.xml
+C:\Users\Korisnik\source\repos\Vjezba4DomaSolution\Vjezba4Doma\obj\Debug\Vjezba4Doma.Resources.resources
+C:\Users\Korisnik\source\repos\Vjezba4DomaSolution\Vjezba4Doma\obj\Debug\Vjezba4Doma.vbproj.GenerateResource.Cache
+C:\Users\Korisnik\source\repos\Vjezba4DomaSolution\Vjezba4Doma\obj\Debug\Vjezba4Doma.vbproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Vjezba4DomaSolution\Vjezba4Doma\obj\Debug\Vjezba4Doma.exe
+C:\Users\Korisnik\source\repos\Vjezba4DomaSolution\Vjezba4Doma\obj\Debug\Vjezba4Doma.xml
+C:\Users\Korisnik\source\repos\Vjezba4DomaSolution\Vjezba4Doma\obj\Debug\Vjezba4Doma.pdb
