@@ -13,7 +13,7 @@ U daljnjim vježbama je uveden izbornik na "select case" izboru te ukoliko se un
 
 Exercises from introduction to programming, tasks are made in VB.net.
 
-Text for exercises tasks are in .pdf in folders, they are only in Croatian. 
+Text for exercise tasks are in .pdf in folders, they are only in Croatian. 
 
 1. exercise - there is no menu, and you have to select what module to compile
 2. exercise - a simple menu based on "if" choice has been implemented
