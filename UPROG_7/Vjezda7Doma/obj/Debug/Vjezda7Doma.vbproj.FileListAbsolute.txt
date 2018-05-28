@@ -1,0 +1,11 @@
+C:\Users\Korisnik\source\repos\Vjezda7DomaSolution\Vjezda7Doma\bin\Debug\Vjezda7Doma.exe.config
+C:\Users\Korisnik\source\repos\Vjezda7DomaSolution\Vjezda7Doma\bin\Debug\Vjezda7Doma.exe
+C:\Users\Korisnik\source\repos\Vjezda7DomaSolution\Vjezda7Doma\bin\Debug\Vjezda7Doma.pdb
+C:\Users\Korisnik\source\repos\Vjezda7DomaSolution\Vjezda7Doma\bin\Debug\Vjezda7Doma.xml
+C:\Users\Korisnik\source\repos\Vjezda7DomaSolution\Vjezda7Doma\obj\Debug\Vjezda7Doma.vbprojResolveAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Vjezda7DomaSolution\Vjezda7Doma\obj\Debug\Vjezda7Doma.Resources.resources
+C:\Users\Korisnik\source\repos\Vjezda7DomaSolution\Vjezda7Doma\obj\Debug\Vjezda7Doma.vbproj.GenerateResource.Cache
+C:\Users\Korisnik\source\repos\Vjezda7DomaSolution\Vjezda7Doma\obj\Debug\Vjezda7Doma.vbproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Vjezda7DomaSolution\Vjezda7Doma\obj\Debug\Vjezda7Doma.exe
+C:\Users\Korisnik\source\repos\Vjezda7DomaSolution\Vjezda7Doma\obj\Debug\Vjezda7Doma.xml
+C:\Users\Korisnik\source\repos\Vjezda7DomaSolution\Vjezda7Doma\obj\Debug\Vjezda7Doma.pdb
