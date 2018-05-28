@@ -1,0 +1,11 @@
+C:\Users\Korisnik\source\repos\Vjezna11DomaSolution\Vjezna11Doma\bin\Debug\Vjezna11Doma.exe.config
+C:\Users\Korisnik\source\repos\Vjezna11DomaSolution\Vjezna11Doma\bin\Debug\Vjezna11Doma.exe
+C:\Users\Korisnik\source\repos\Vjezna11DomaSolution\Vjezna11Doma\bin\Debug\Vjezna11Doma.pdb
+C:\Users\Korisnik\source\repos\Vjezna11DomaSolution\Vjezna11Doma\bin\Debug\Vjezna11Doma.xml
+C:\Users\Korisnik\source\repos\Vjezna11DomaSolution\Vjezna11Doma\obj\Debug\Vjezba11Doma.vbprojResolveAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Vjezna11DomaSolution\Vjezna11Doma\obj\Debug\Vjezna11Doma.Resources.resources
+C:\Users\Korisnik\source\repos\Vjezna11DomaSolution\Vjezna11Doma\obj\Debug\Vjezba11Doma.vbproj.GenerateResource.Cache
+C:\Users\Korisnik\source\repos\Vjezna11DomaSolution\Vjezna11Doma\obj\Debug\Vjezba11Doma.vbproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Vjezna11DomaSolution\Vjezna11Doma\obj\Debug\Vjezna11Doma.exe
+C:\Users\Korisnik\source\repos\Vjezna11DomaSolution\Vjezna11Doma\obj\Debug\Vjezna11Doma.xml
+C:\Users\Korisnik\source\repos\Vjezna11DomaSolution\Vjezna11Doma\obj\Debug\Vjezna11Doma.pdb

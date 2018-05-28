@@ -1,0 +1,11 @@
+C:\Users\Korisnik\source\repos\Vjezba10DomaSolution\Vjezba10Doma\bin\Debug\Vjezba10Doma.exe.config
+C:\Users\Korisnik\source\repos\Vjezba10DomaSolution\Vjezba10Doma\bin\Debug\Vjezba10Doma.exe
+C:\Users\Korisnik\source\repos\Vjezba10DomaSolution\Vjezba10Doma\bin\Debug\Vjezba10Doma.pdb
+C:\Users\Korisnik\source\repos\Vjezba10DomaSolution\Vjezba10Doma\bin\Debug\Vjezba10Doma.xml
+C:\Users\Korisnik\source\repos\Vjezba10DomaSolution\Vjezba10Doma\obj\Debug\Vjezba10Doma.vbprojResolveAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Vjezba10DomaSolution\Vjezba10Doma\obj\Debug\Vjezba10Doma.Resources.resources
+C:\Users\Korisnik\source\repos\Vjezba10DomaSolution\Vjezba10Doma\obj\Debug\Vjezba10Doma.vbproj.GenerateResource.Cache
+C:\Users\Korisnik\source\repos\Vjezba10DomaSolution\Vjezba10Doma\obj\Debug\Vjezba10Doma.vbproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Vjezba10DomaSolution\Vjezba10Doma\obj\Debug\Vjezba10Doma.exe
+C:\Users\Korisnik\source\repos\Vjezba10DomaSolution\Vjezba10Doma\obj\Debug\Vjezba10Doma.xml
+C:\Users\Korisnik\source\repos\Vjezba10DomaSolution\Vjezba10Doma\obj\Debug\Vjezba10Doma.pdb

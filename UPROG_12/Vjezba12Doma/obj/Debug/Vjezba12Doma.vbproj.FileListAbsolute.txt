@@ -1,0 +1,11 @@
+C:\Users\Korisnik\source\repos\Vjezba12DomaSolution\Vjezba12Doma\obj\Debug\Vjezba12Doma.vbprojResolveAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Vjezba12DomaSolution\Vjezba12Doma\obj\Debug\Vjezba12Doma.Resources.resources
+C:\Users\Korisnik\source\repos\Vjezba12DomaSolution\Vjezba12Doma\obj\Debug\Vjezba12Doma.vbproj.GenerateResource.Cache
+C:\Users\Korisnik\source\repos\Vjezba12DomaSolution\Vjezba12Doma\obj\Debug\Vjezba12Doma.vbproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Vjezba12DomaSolution\Vjezba12Doma\bin\Debug\Vjezba12Doma.exe.config
+C:\Users\Korisnik\source\repos\Vjezba12DomaSolution\Vjezba12Doma\bin\Debug\Vjezba12Doma.exe
+C:\Users\Korisnik\source\repos\Vjezba12DomaSolution\Vjezba12Doma\bin\Debug\Vjezba12Doma.pdb
+C:\Users\Korisnik\source\repos\Vjezba12DomaSolution\Vjezba12Doma\bin\Debug\Vjezba12Doma.xml
+C:\Users\Korisnik\source\repos\Vjezba12DomaSolution\Vjezba12Doma\obj\Debug\Vjezba12Doma.exe
+C:\Users\Korisnik\source\repos\Vjezba12DomaSolution\Vjezba12Doma\obj\Debug\Vjezba12Doma.xml
+C:\Users\Korisnik\source\repos\Vjezba12DomaSolution\Vjezba12Doma\obj\Debug\Vjezba12Doma.pdb
