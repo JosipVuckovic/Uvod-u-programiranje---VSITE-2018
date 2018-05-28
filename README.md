@@ -13,11 +13,11 @@ U daljnjim vježbama je uveden izbornik na "select case" izboru te ukoliko se un
 
 Exercises from introduction to programming, tasks are made in VB.net.
 
-Text for exercise tasks are in .pdf in folders, they are only in Croatian. 
+Text for exercise tasks are in .pdf in folders, they are only in Croatian. Text of the tasks and names of varables is in Croatian.
 
 1. exercise - there is no menu, and you have to select what module to compile
 2. exercise - a simple menu based on "if" choice has been implemented
 3. exercise - a simple menu based on "select case" has been implemented, using short, so it react badly on letters :)
 
-In all other exercises have a "select case" menu that is able to take any input and to request new input on wrong input.
+In all other exercises there is a "select case" menu that is able to take any input and to request new input on wrong/undefined input.
 
