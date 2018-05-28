@@ -165,6 +165,7 @@
         End Function
     End Class
     Friend Sub Zad5Sub()
+        Console.Clear()
         Console.WriteLine("----------------------------------------------------------------------")
         Console.WriteLine("Kreiramo klasu Tocka te u programu unesemo vrijednosti za x i y.")
         Console.WriteLine("Kada unesemo sve točke koje želimo, ispisujemo njihovu udaljenost od ishodišta.")
