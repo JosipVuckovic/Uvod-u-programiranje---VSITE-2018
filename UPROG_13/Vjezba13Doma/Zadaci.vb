@@ -83,6 +83,10 @@
                         Console.WriteLine()
                         Console.WriteLine("Stringovi nisu jednaki")
                         Exit Select
+                     Case 1
+                        Console.WriteLine()
+                        Console.WriteLine("Stringovi nisu jednaki")
+                        Exit Select
                 End Select
                 Exit Select
             Case "2"
