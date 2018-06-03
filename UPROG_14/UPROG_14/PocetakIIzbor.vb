@@ -13,7 +13,7 @@
         Dim izbor As Object
         Console.WriteLine("**********************************************************************")
         Console.WriteLine("*    1 - Zadatak 1 - Stringovi Concat,equals,compare                 *")
-        Console.WriteLine("*    2 - Zadatak 2 -                          *")
+        Console.WriteLine("*    2 - Zadatak 2 - Klase, parametarska metoda                      *")
         Console.WriteLine("*    3 - Zadatak 3 -                                   *")
         Console.WriteLine("*    4 - Zadatak 4 -            *")
         Console.WriteLine("*    5 - Zadatak 5 -   *")
@@ -25,9 +25,9 @@
             Case "1"
                 Call Zad1Sub()
                 Exit Select
-            'Case "2"
-            '    Call Zad2Sub()
-            '    Exit Select
+            Case "2"
+                Call Zad2Sub()
+                Exit Select
             'Case "3"
             '    Call Zad3Sub()
             '    Exit Select
