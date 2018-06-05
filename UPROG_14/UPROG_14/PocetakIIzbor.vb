@@ -14,9 +14,9 @@
         Console.WriteLine("**********************************************************************")
         Console.WriteLine("*    1 - Zadatak 1 - Stringovi Concat,equals,compare                 *")
         Console.WriteLine("*    2 - Zadatak 2 - Klase, parametarska metoda                      *")
-        Console.WriteLine("*    3 - Zadatak 3 -                                   *")
-        Console.WriteLine("*    4 - Zadatak 4 -            *")
-        Console.WriteLine("*    5 - Zadatak 5 -   *")
+        Console.WriteLine("*    3 - Zadatak 3 - Klase, polje klase                              *")
+        Console.WriteLine("*    4 - Zadatak 4 - Klase, konstruktor i parametarski konstruktor   *")
+        Console.WriteLine("*    5 - Zadatak 5 - Klasa svojstvo za upis i čitanje                *")
         Console.WriteLine("*    6 - Izlaz                                                       *")
         Console.WriteLine("**********************************************************************")
         Console.Write("         Vaš izbor: ")
@@ -28,15 +28,15 @@
             Case "2"
                 Call Zad2Sub()
                 Exit Select
-            'Case "3"
-            '    Call Zad3Sub()
-            '    Exit Select
-            'Case "4"
-            '    Call Zad4Sub()
-            '    Exit Select
-            'Case "5"
-            '    Call Zad5Sub()
-            '    Exit Select
+            Case "3"
+                Call Zad3Sub()
+                Exit Select
+            Case "4"
+                Call Zad4Sub()
+                Exit Select
+            Case "5"
+                Call Zad5Sub()
+                Exit Select
             Case "6"
                 Console.WriteLine("Hvala na korištenju")
                 Console.WriteLine("pritisnite bilo koju tipku za izlaz")
